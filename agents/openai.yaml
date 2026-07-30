@@ -1,0 +1,4 @@
+interface:
+  display_name: "POMS Research Logic"
+  short_description: "Build POMS-style research logic for academic papers."
+  default_prompt: "Use $poms-research-logic to improve the research logic, contribution framing, and writing structure of this paper."
